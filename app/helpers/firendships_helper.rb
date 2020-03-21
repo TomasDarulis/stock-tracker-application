@@ -1,0 +1,2 @@
+module FirendshipsHelper
+end
